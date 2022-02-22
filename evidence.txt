@@ -225,4 +225,4 @@ maybe not
 QUANTUM PHYSICS
 ---------------
 an atom changes
-change you C it
+if you C it

@@ -431,3 +431,9 @@ they never accept it
 can't see
 b.l.m.
 blame
+
+MINING HISTORY 101
+------------------
+- find a big old history thing
+- set up a mini example
+- record it

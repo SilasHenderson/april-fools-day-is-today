@@ -253,3 +253,7 @@ examples:
 WHAT HAPPENS IF WE DON'T HAVE COMPUTERS?
 ----------------------------------------
 we can try again to 'share' without computers
+
+GREEN SCREEN CHALLENGE
+----------------------
+who can spot the difference?

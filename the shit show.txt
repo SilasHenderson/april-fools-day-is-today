@@ -476,4 +476,4 @@ or something
 HOW TO AFFECT CHANGE: OPTIONS
 -----------------------------
 - kill
-- do anything else
+- do anything else (i recommend this option)

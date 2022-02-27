@@ -421,3 +421,7 @@ okay
 THEY ARE BAD AND WE ARE GOOD
 ----------------------------
 'sanity'
+
+WHAT EVERY WORLD LEADER HAS DONE
+--------------------------------
+fail

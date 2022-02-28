@@ -531,6 +531,5 @@ HOW TO SOLVE THINGS: WHAT NOT TO DO
 -----------------------------------
 - 'should'
 - 'would'
--'could'
-
+- 'could'
 ... shoulda woulda coulda!

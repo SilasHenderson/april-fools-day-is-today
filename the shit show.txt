@@ -1049,8 +1049,7 @@ b: follow popular science
 c: other
 ...
 we've got to figure out a way to 
-make people (a's, b's and c's)
-who want to live in a 'shell' happy
+make people who want to live in a 'shell' happy
 but also let people who
 'want to get out of the shell'
 get out

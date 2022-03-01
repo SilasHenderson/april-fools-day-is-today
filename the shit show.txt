@@ -1155,3 +1155,5 @@ replace 'words' with 'music'
 so, we've got a lot of people who are good at 'music'
 unfortunately, this subject doesn't
 'have the answer'
+...
+for instance, no amount of 'words' will change 'the world'

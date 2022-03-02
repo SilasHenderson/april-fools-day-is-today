@@ -1240,3 +1240,9 @@ it appears that the current balance is:
 brain: most important
 heart: second most important
 back:  not important (poor people do soldering and farming, etc.)
+
+SPIDER AND LEAF
+---------------
+i spider can
+leave a little leaf
+to 'guard the fort'

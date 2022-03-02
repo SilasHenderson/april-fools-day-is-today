@@ -1361,3 +1361,7 @@ HOW ELECTRIC CARS HELP THE 'LOCAL ENVIRONMENT'
 1) put a battery in the car
 2) burn stuff for energy elsewhere (to generate the electricity)
 3) pretend like the 'battery power' is magic
+
+COMPUTER FIRE THAT IS INDISTINGUISHABLE FROM REAL FIRE
+------------------------------------------------------
+we're not there yet

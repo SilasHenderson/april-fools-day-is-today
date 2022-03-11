@@ -1011,7 +1011,6 @@ FACTTS
 ------
 'dat real real (double crossed facts)
 
-
 GHOST BUSTER DUNKING ON MAGICAL THINKING
 ----------------------------------------
   i       know that 
@@ -1022,7 +1021,7 @@ MAGICAL THINKING EXPLAINED
 --------------------------
 math
 
-AGAIN GOD DAMMIT
-----------------
+AGAIN, GOD DAMMIT
+-----------------
 ma gical
 th inking

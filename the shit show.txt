@@ -1250,3 +1250,115 @@ NUNS
 they're having
 none
 of this bullshit
+
+ANOTHER TALE FROM THE EMERALD CITY
+----------------------------------
+in indiana, living with my mom
+taking college classes and tutoring
+i hit a wall with math
+it was too hard
+i felt confused
+and i felt like 
+this meant i was doomed in the world of academia
+but i kept studying
+these little calculus equations
+until i had a knot in my stomach
+...
+anyway ...
+not bad, just basically ...
+umm
+i tried studying stuff that was too hard
+and then got frustrated and got knots and stuff from 
+studying while frustrated
+...
+not that that's bad, just i hit a personal limit
+with physical pain
+...
+okay ...
+anyway
+right when i was about to give up, 
+i had two classes back to back 
+that 'gave me hope'
+the first was 'linear algebra 2'
+it was an 'applied linear algebra' class, 
+ummm....
+so the first linear algebra class is usually really boring
+i think the python stuff can make getting started more fun
+anyway 
+this dude was retired and then came back to teach a fun class
+we learned about sports ranking algorithms, the original google page-rank algortithm, and image compression with svds
+and played with matlab
+but the thing that stuck out was
+he was confused a lot
+it was weird, because i knew he was really successful
+...
+anyway that guy was awesome
+...
+it was my first intro to matlab and building stuff
+to verify results with an actual computer instead of 'some expert'
+...
+years later, i hope one day i can be successful enough 
+to be able to delve into the mysteries of linear algebra
+and get confused by it (no one really understands a lot of the stuff ... there's so much opportunity for waste-reduction in ai stuff)
+...
+ugh
+...
+okay, the next class was a topology optimization class
+earlier, i had taken a 'finite element analysis' class
+it was my first graduate class
+i had no idea what i was in for
+... in short, we did a final presentation
+and i realized all the other people 
+were like ... actually making stuff, 
+working with rolls royce, actual companies
+coding stuff
+...
+ugh my presentation was so stupid
+i just latched onto someone else's 
+and probably ruined it
+ugh
+...
+anyway, the next semester
+i stopped drinking and took
+'finite element analysis on steroids' (topology optimization)
+and got really into it
+...
+the teacher also had this thing i'd never seen before:
+he was very successful engineer, but was confused a lot
+...
+for each class activity, he'd do it with us
+code along
+and he truly wanted students to find a better solution than his
+...
+so, after all this 'being a 35-year-old teenager' stuff
+...
+i wanna study linear algebra and topology optimization
+and ...
+i guess 'go mini' or something
+...
+and they're both subjects where
+i know i'd feel good about myself if i studied it
+but it's too difficult to do alone (i can still learn code and stuff alone)
+...
+so, part of it will be
+going back and basically trying to actually understand
+shit i already wrote
+...
+but there's 'no new power' in that
+it's just 'explaining and understanding' stuff
+...
+so, for the 100-line topopt code
+- i still don't understand the oc method
+- i still don't understand cj method 
+- i forgot the q4 element derivation (and it was difficult even when i 'did it')
+- i haven't studied elasticity
+...
+and then, it'll be a thing where
+i'm working on something i think is cool
+but 'the pros' will be using tensors and ai shit
+and will look way cooler than mine
+...
+but if people work on the lower level stuff
+then the high level stuff can be more efficient at least
+...
+or something

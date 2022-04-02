@@ -2092,5 +2092,6 @@ triangular
 
 INFORMATION
 -----------
-it's ...
-in formation
+if you're building an engine
+using a blueprint
+it's in formation

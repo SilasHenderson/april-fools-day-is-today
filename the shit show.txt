@@ -2366,8 +2366,8 @@ POPULAR TRUST
 -------------
 more rust on da' t
 
-WHEN AND HOW?
--------------
-did language transition 
-from technology
-to reality
+WHEN, HOW, WHY?
+---------------
+did words transition 
+from technology (a cool utility)
+to reality (the nature of existence)

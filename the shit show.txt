@@ -2093,8 +2093,8 @@ triangular
 INFORMATION
 -----------
 if you're building an engine
-using a blueprint
-it's in formation
+from information
+it's in formation ('da info not-equals 'da engine)
 
 QUICK THOUGHT ABOUT 'WORD MAGIC'
 --------------------------------

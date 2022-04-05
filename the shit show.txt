@@ -2368,4 +2368,6 @@ more rust on da' t
 
 WHEN AND HOW?
 -------------
-did language become 'not technology?'
+did language transition 
+from technology
+to reality

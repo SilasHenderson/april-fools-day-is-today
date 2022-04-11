@@ -2551,10 +2551,9 @@ hot, cold
 mayo, mustard
 2 is a number
 
-THE BEST MESSAGE
-----------------
+WISHFUL THINKING WITH NO SOLUTION
+---------------------------------
 basic human rights
 - shelter
 - food
-- medicine 
-($ hey! why's this so ... hard? it must have something to do with ... inflation!)
+- medicine

@@ -2901,3 +2901,7 @@ tell me why you're not
 DICTIONARY
 ----------
 boy, that's a lot of words!
+
+MAN, OH, MAN!: A SCIENTIFIC PLOT
+--------------------------------
+(man 1)  circle  (man 2)

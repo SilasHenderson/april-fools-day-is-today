@@ -2966,3 +2966,10 @@ $more
 $moores
 ...
 okay i'll stop
+
+LOOPING A BIG EMPTY PYRAMID OF EXTORTION
+----------------------------------------
+1) compromise top of triangle
+2) let rest fill 'organically'
+3) record data
+4) start over

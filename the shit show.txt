@@ -2919,3 +2919,10 @@ high five = best story
 TOO SOON? THE DEPRESSING ANSWER
 -------------------------------
 always
+
+WHEN 'TOO SOON' AND 'TOO LATE' MEET
+-----------------------------------
+present
+...
+presents!
+presents!

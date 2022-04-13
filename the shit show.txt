@@ -3054,3 +3054,10 @@ you:     boss
 premise: get all the money
 method:  get workers
 choose:  woke vs. asian, mexican, japanese, etc.
+
+PUBLIC INFLUENCE VIDEO GAME
+---------------------------
+you:     boss
+premise: get all the money
+method:  get workers
+choose:  the best dad

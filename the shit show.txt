@@ -3061,3 +3061,10 @@ you:     boss
 premise: get all the money
 method:  get workers
 choose:  the best dad
+
+WAR PUBLIC INFLUENCE VIDEO GAME
+-------------------------------
+you:     boss
+premise: get all the money
+method:  get workers
+collect  most bad data and most good data ... this is stupid

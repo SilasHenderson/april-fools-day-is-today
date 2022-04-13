@@ -2905,3 +2905,9 @@ boy, that's a lot of words!
 MAN, OH, MAN!: A SCIENTIFIC PLOT
 --------------------------------
 (man 1)  circle  (man 2)
+
+EYE FULL TOWER: A SCIENTIFIC PLOT
+--------------------------------
+      (hi five!)
+     /          \
+(man 1) circle (man 2)

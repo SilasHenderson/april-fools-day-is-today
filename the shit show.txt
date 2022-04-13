@@ -2897,3 +2897,7 @@ dick ... tater
 YOU ARE A DICTATOR
 ------------------
 tell me why you're not
+
+DICTIONARY
+----------
+boy, that's a lot of words!

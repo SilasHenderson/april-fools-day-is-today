@@ -2925,6 +2925,6 @@ WHEN 'TOO SOON' AND 'TOO LATE' MEET
 too soon to reveal history
 too late to figure it out
 
-BUILD A SQUARE HOUSE WITH 2 SOON AND 2 LATE
--------------------------------------------
+BUILDING A SQUARE HOUSE WITH 2 SOON 2 LATE
+------------------------------------------
 hello world, but i mean ... safety first!

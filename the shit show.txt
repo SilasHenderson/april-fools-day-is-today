@@ -2922,7 +2922,4 @@ always
 
 WHEN 'TOO SOON' AND 'TOO LATE' MEET
 -----------------------------------
-present
-...
-presents!
-presents!
+hello world!

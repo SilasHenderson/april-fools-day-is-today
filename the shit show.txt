@@ -3047,3 +3047,10 @@ premise: get all the money
 method:  get workers
 choose:  woke vs. mexican
 how?:    story ... it doesn't even matter
+
+ENGINEERING VIDEO GAME
+----------------------
+you:     boss
+premise: get all the money
+method:  get workers
+choose:  woke vs. asian, mexican, japanese, etc.

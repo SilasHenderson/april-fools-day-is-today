@@ -2931,7 +2931,11 @@ hello world, but i mean ... safety first!
 
 4 IS THE STUPIDEST NUMBER: THE SEQUEL
 -------------------------------------
-i'm not good enough at math to know what comes after 4
+i'm not good enough at math to know what number the sequel will be
+
+GUESS
+-----
+negative 4
 
 JUST WAIT TILL I NOT STUDY FOR SO LONG THAT I START THINKING ABOUT 1 AND 2
 --------------------------------------------------------------------------

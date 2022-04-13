@@ -2973,3 +2973,10 @@ LOOPING A BIG EMPTY PYRAMID OF EXTORTION
 2) let rest fill 'organically'
 3) record data
 4) start over
+
+LEGEND OF ZELDA: A GAME FOR CHILDREN
+------------------------------------
+collect 'the peaces'
+... THEN go after 'ganon'
+... plus you can start over as many times as you want
+... and the world is 300 panels

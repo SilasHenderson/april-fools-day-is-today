@@ -3266,5 +3266,5 @@ six ties
 
 VARIOUS TRIANGLES GROWING OUT OF A CIRCLE
 -----------------------------------------
-the top of the triangle
-is 'brand' new!
+the top of 'the' triangle
+is 'brand'  new!

@@ -3273,3 +3273,11 @@ I FINALLY UNDERSTAND WHY ZYPREXA IS SO POPULAR
 ----------------------------------------------
 taking zyprexa to relieve paranoia caused by ? doesn't work
 taking zyprexa to relieve paranoia caused by social media works GREAT! ($ i slept great!)
+
+WHERE WILL MY 'CAR' GO?
+-----------------------
+a terrifying question
+...
+i guess i should at least
+learn rust and cargo
+before i die

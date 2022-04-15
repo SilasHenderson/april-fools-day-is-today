@@ -925,3 +925,4 @@ THE BEST WEB SITE WAS MADE BY A RUSSIAN DUDE
 --------------------------------------------
 before we spin too much hate, 
 https://www.ibiblio.org/e-notes/webgl/gpu/contents.htm
+($ i wanted 'visual-math' to be like a easier version, but the idea of readable physics code that runs on the internet is awesome)

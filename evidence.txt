@@ -1,12 +1,12 @@
 "OOPS: Object Oriented Poems" by Buck Tuckerson
 
-~ Preface ~
+::: Preface :::
 
 I INVENTED ASIANS
 -----------------
 baby driver
 
-~ Chapter 1: Science ~ 
+::: 1 Science :::
 
 THOMAS EDISON
 -------------
@@ -30,7 +30,7 @@ UFOS
 ----
 it's so ... fu
 
-~ Chapter 2: Conflict ~
+::: 2 Conflict :::
 
 THE WORST THING TO EVER HAPPEN
 ------------------------------
@@ -57,7 +57,7 @@ when people forget 'reality exists'
 they try to get
 'a new clear'
 
-~ Chapter 3: Computer ~ 
+::: 3 Computers :::
 
 ADVICE FROM THE COMPUTER
 ------------------------
@@ -90,7 +90,7 @@ put
 pt
 cruiser
 
-~ Chapter 4: Koopa ~ 
+::: 4 Koopa :::
 
 THE GALAPAGOS ISLANDS
 ---------------------
@@ -111,10 +111,6 @@ ALL OUR BEST SCIENTISTS ARE ACTUALLY RETARDED
 ---------------------------------------------
 that's a whore-ible idea
 
-KILL LISTS AND TORTURE CAMPS
-----------------------------
-so ... why can't we 'have everything'?
-
 INDIAN WEINER SCIENCE
 ---------------------
 ah man! stop trying to adult!
@@ -123,7 +119,7 @@ SONG OF THE CAGED B
 -------------------
 and so can you!
 
-~ Chapter 5: Strategy ~
+::: 5 Strategy :::
 
 HUGE SPIKE
 ----------
@@ -139,7 +135,7 @@ JOE BIDEN CAN'T BE EXTORTED
 ---------------------------
 win a nobel prize!
 
-~ Chapter 6: Aliens
+::: 6 Aliens :::
 
 WHO CAN 'PROJECT STRENGTH' ... 'BEST'
 -------------------------------------
@@ -151,7 +147,7 @@ we think they will give us presents
 if we 'find them'
 santa
 
-~ Chapter 7: Business ~
+::: 7 Business :::
 
 NEW VILLIANS
 ------------
@@ -171,7 +167,7 @@ watch signs all day
 until they can find an excuse
 to 'drill'
 
-~ Chapter 8: Sick ~ 
+::: 8 Medicine :::
 
 WHY IS THE CDC?
 ---------------
@@ -188,7 +184,7 @@ CHINA MODEL OF DEALING WITH FOREIGN POWER
 - document other side
 - only get violent if 'wall' is 'penetrated'
 
-~ Chapter 9: Philosophy ~
+::: 9 Philosophy :::
 
 WHY IS THIS CONFLICT?
 ---------------------
@@ -208,7 +204,7 @@ BASIC FUCKING OBVIOUS GOALS
 - minimize physical/mental pain in health care
 - minimize physical/mental pain in school system
 
-~ Epilogue ~ 
+::: Epilogue :::
 
 CENTS, DOLLARS AND LANGUAGE
 ---------------------------

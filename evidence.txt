@@ -1,8 +1,12 @@
-~ oops: object oriented poems ... by silas! ~
+"OOPS: Object Oriented Poems" by Buck Tuckerson
+
+~ Preface ~
 
 I INVENTED ASIANS
 -----------------
 baby driver
+
+~ Chapter 1: Science ~ 
 
 THOMAS EDISON
 -------------
@@ -25,6 +29,8 @@ koff
 UFOS
 ----
 it's so ... fu
+
+~ Chapter 2: Popular Conflict ~
 
 THE WORST THING TO EVER HAPPEN
 ------------------------------
@@ -50,6 +56,8 @@ NUCLEAR
 when people forget 'reality exists'
 they try to get
 'a new clear'
+
+~ Chapter 3: Computer Science ~ 
 
 ADVICE FROM THE COMPUTER
 ------------------------
@@ -81,6 +89,8 @@ pu.t
 put
 pt
 cruiser
+
+~ Chapter 4: Koopa Science ~ 
 
 THE GALAPAGOS ISLANDS
 ---------------------
@@ -129,6 +139,8 @@ sins
 sore hips
 sense or ships
 
+~ Chapter 6: Understanding Poll Inflation ~
+
 HUGE SPIKE
 ----------
 'economics'
@@ -159,6 +171,8 @@ MINING HISTORY 101
 - set up a mini example
 - record it
 
+~ Chapter 7: Brave Blue Whirl Pool ~
+
 NEW VILLIANS
 ------------
 when we stop studying so long
@@ -183,6 +197,8 @@ watch signs all day
 until they can find an excuse
 to 'drill'
 
+~ Chapter 9: Sick Burns ~ 
+
 WHY IS THE CDC?
 ---------------
 data about eve
@@ -197,6 +213,8 @@ CHINA MODEL OF DEALING WITH FOREIGN POWER
 - build own power
 - document other side
 - only get violent if 'wall' is 'penetrated'
+
+~ Epilogue ~ 
 
 CENTS, DOLLARS AND LANGUAGE
 ---------------------------

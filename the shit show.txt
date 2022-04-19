@@ -937,3 +937,8 @@ pro blame, probe? lame
 TOLd ya' STOY
 -------------
 toy story
+
+WHO LOVES THE SUN?
+------------------
+where's ra?
+ in 'da rain!

@@ -966,3 +966,15 @@ six:   sexi
 seven: eleven
 eight: gh: ie: T
 nine:  ni, ne, ie: nn
+
+SPELLING ALL THE NUMBERS 2: 3
+-----------------------------
+one:   oh, no!
+two:   tea with you
+three: bee's knee
+four:  cottage door
+five:  another hive
+six:   bis-cuit-s
+seven: heven, shh .. ahh!
+eight: too many god-damn letters
+nine:  NINE!

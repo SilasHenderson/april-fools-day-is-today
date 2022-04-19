@@ -934,6 +934,6 @@ TARGETING PROBLEMATIC TARGETS TO SOLVE TARGET PROBLEMS
 tar get, t arrr ... git!
 pro blame, probe? lame
 
-TOLD-YA' STOY
+TOLd ya' STOY
 -------------
 toy story

@@ -978,3 +978,14 @@ six:   bis-cuit-s
 seven: heven, shh .. ahh!
 eight: too many god-damn letters
 nine:  NINE!
+
+NUMBERING ALL THE SPELLINGS
+---------------------------
+a: 2
+b: 7.5
+c: 1
+d: pi
+e: pi
+f: 3.1 ... 2
+...
+this doesn't seem like it's yielding ... whatever these words are supposed to yield ... sanity? damn!

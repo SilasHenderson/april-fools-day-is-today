@@ -867,10 +867,15 @@ OLD-FASHIONED NEUROLINK
 -----------------------
 drugs
 
-ANCIENT WIZARD EMPORER ... OLINK
+ANCIENT WIZARD-EMPORER ... OLINK
 --------------------------------
-foo bar 
-... awesome!
+foo bar
+bar chi
+awe jeez
+freeze keys
+bar wheeze
+we zehe
+lawn mower
 
 B-SIDE CHILLIN'
 ---------------
@@ -910,12 +915,12 @@ umm ... this one's too difficult
 
 LOTS OF WORDS ON THE SAME PAGE
 ------------------------------
-good job!
+i did a good job!
 
 PHYSICAL EMOTION
 ----------------
-a lot of physics ideas
-were motivated by emotion
+lots of physics ideas
+were motivated
 
 BIG-ASS WHALE GOD
 -----------------
@@ -983,13 +988,24 @@ nine:  NINE!
 NUMBERING ALL THE SPELLINGS
 ---------------------------
 a: 2
-b: 7.5
+b: 2.5
 c: 1
 d: pi
 e: pi
-f: 3.1 ... 2
+f: 2/4
+g: 3.excellent
+h: a hi number 'a hi one'
+i: 1 rotated 90 degrees
+j: 1 rotated 90 degrees, but sort of squiggly on the bottom
+k: 5/3
+l: a million
+m: b million
+n: $3.7
+o: 2
+p: x
+q: O + -
 ...
-this doesn't seem like it's yielding ... whatever these words are supposed to yield ... sanity? damn!
+ugh whatever
 
 ANATOMY OF THE BRAIN
 --------------------

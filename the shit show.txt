@@ -950,3 +950,7 @@ ignore ants
 WORDS THAT START WITH 'A' AND END WITH 'T'
 ------------------------------------------
 every word
+
+A LEE IN 'DA HOUSE
+------------------
+bee-lee V

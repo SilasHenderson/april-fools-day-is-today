@@ -869,7 +869,8 @@ drugs
 
 ANCIENT WIZARD EMPORER ... OLINK
 --------------------------------
-foo bar
+foo bar 
+... awesome!
 
 B-SIDE CHILLIN'
 ---------------

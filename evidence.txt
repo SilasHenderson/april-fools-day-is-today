@@ -5,7 +5,6 @@ silas-twitter.com
 benefits:
 - one user
 - no context
-- lots of 'tude
 
 WHAT IS GOING ON BEHIND THE SCENES?
 -----------------------------------

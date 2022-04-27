@@ -1,10 +1,4 @@
-silas-twitter.com
-
-"capitalized proclamations about popular topics"
-
-benefits:
-- one user
-- no context
+silas-twitter.com...txt
 
 WHAT IS GOING ON BEHIND THE SCENES?
 -----------------------------------

@@ -111,3 +111,7 @@ loco-motion
 STRING THEORY
 -------------
 why do i have knots?
+
+A SILLY EXAMPLE OF INDIRECTION
+------------------------------
+'t' stands for ... 'testosterone'!

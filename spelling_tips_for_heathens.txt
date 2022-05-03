@@ -131,8 +131,6 @@ hi ... my name is 'tj'
 
 RAND PAUL IS TOTALLY NOT POPULAR
 --------------------------------
-it's sort of hilarious to see someone
-study a lot
-and then speak to a completely unmoved void
-...
-gee!
+it's sort of hilarious to see someone 
+study a lot and then speak to a
+completely unmoved void

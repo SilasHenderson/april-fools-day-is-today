@@ -843,3 +843,9 @@ e.mpty
 f.ull
 
 i'm on ... 'd'?
+
+uh, oh
+
+TOO CLOSE TO 'C'
+----------------
+why can't i have fun all the time?

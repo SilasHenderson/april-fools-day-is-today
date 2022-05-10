@@ -226,3 +226,31 @@ def main:
     '''
     do:
         stuff
+
+WHY THE ABOVE COMPUTER PROGRAM IS PROFITABLE
+--------------------------------------------
+~ average program ~
+
+def main:
+    '''
+    heroic mission statement
+    '''
+    do:
+        nothing
+        
+CHECK YOUR PHONES TO SEE WHO IS POPULAR
+---------------------------------------
+so ...
+- i don't understand phones
+- i don't understand who
+- i don't understand pop
+
+LEARNING SCIENCE
+----------------
+losing weight and looking cool
+is the best move i've made
+to get 'good at science' (coding, math, music, and art are now 'autistic' ... i guess)
+
+HOW MANY CITATIONS?
+-------------------
+doctors need 2 bee popular 2

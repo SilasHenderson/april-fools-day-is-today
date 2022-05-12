@@ -212,12 +212,36 @@ every 'one' "knows"
 '''DOC''' STRINGS
 -----------------
 def main:
-     '''
-     we're bad 
-     '''
-     do: 
-         stuff
+    '''
+    we're bad 
+    '''
+    do: 
+        stuff
+
+A MORE PROFITABLE 'COMPUTER PROGRAM'
+------------------------------------
+def main:
+    '''
+    heroic mission statement
+    '''
+    do:
+        something
+        
+WHY ABOVE COMPUTER PROGRAM IS PROFITABLE
+----------------------------------------
+~ average program ~
+def:
+    '''
+    heroic mission statement
+    '''
+    do:
+        nothing
 
 TTT
 ---
 wayyy above my pay grade
+
+LIMITS OF BAD AND GOOD 4 KIDZ
+-----------------------------
+germs are bad
+spark is good

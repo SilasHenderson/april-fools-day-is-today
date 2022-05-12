@@ -3,14 +3,6 @@ HAVE YOU EVER HAD A BEE'S KNEE?
 it seems like a valid question before
 beezness
 
-PAIN-TOLERANCE OLYMPICS
------------------------
-rich people always win golf
-
-GOLF
-----
-it's ... harder than actual fighting, right?
-
 THAT WAS REALLY FUN-KNEE
 ------------------------
 there was never a plan
@@ -26,11 +18,6 @@ WESTWORLD ROBOT BREAKING '101'
 DIZZY GILLS
 -----------
 i try to make it brief
-
-THE SONG OF THE SLAVE
----------------------
-what do you
-mean?
 
 SPIN
 ----
@@ -62,9 +49,9 @@ mmm chh
 ...
 don't be gay!
 
-THE 'GREATEST' INJUSTICE OF OUR 'TIME'
---------------------------------------
-think about summore
+THE 'GREATEST' INJUSTICE OF OUR TIME
+------------------------------------
+point it out!
 
 MAN CHART
 ---------
@@ -111,14 +98,6 @@ WHY ARE THERE SO MANY BEES?
 ---------------------------
 they got stung
 
-EXPLANATION OF 'THE BUS' 
-------------------------
-'imagine' ... if you didn't know everything!
-
-THE WELL
---------
-you're welcome!
-
 ATOMIC BOMB
 -----------
 it's abbreviated
@@ -139,17 +118,9 @@ w hat
 THE ENTIRE LIFE STORY OF EVERYBODY 
 ----------------------------------
 'hi'
-'i'm' 'fighting' 'nazis'
-
-GERM-MANZ
----------
-i mean ... i'm fighting germ(?)
-...
-but spelling and history is insane now ... so ...
-
-SCIENCE!
---------
-"i did that" (trademark)
+'i'm' 
+'fighting' 
+'nazis'
 
 SPELLING 'COMPLAIN'
 -------------------
@@ -184,15 +155,6 @@ def main:
     do: 
         stuff
 
-A MORE PROFITABLE 'COMPUTER PROGRAM'
-------------------------------------
-def main:
-    '''
-    heroic mission statement
-    '''
-    do:
-        stuff
-
 TTT
 ---
 wayyy above my pay grade
@@ -205,27 +167,13 @@ spark is good
 TRIANGLE SCIENCE
 ----------------
 top of triangle
-always gets 'highest priority'
-that's why
-we're in a triangle
-...
-rrr!
+gets highest priority
+that's why we're in triangle
 
 SCIENTIFIC DEFENSE OF TRIANGLES
 -------------------------------
 cos
 sin
-
-WHY ARE 'COS' AND 'SIN' TROUBLESOME?
-------------------------------------
-short cuts
-
-COS-SIN VS. TRIANGLE-WORLD
----------------------------
-ugh this sucks
-...
-the 'epic' battle of:
-    2 vs. 3
 
 3D
 --
@@ -243,46 +191,17 @@ history:
 - find a 4d container equation
   ~ strings ~
 - jump to 11 dimensions
-
-A MORE REALISTIC 'GREAT MANZ STUFF TO PASS THE TIME'
-----------------------------------------------------
-5d wrapper? probably no cookies tho
-
-MANIFOLD MATH CAN'T POP NEW MOLECULES THO
------------------------------------------
-follow the leader!
-            e  e
-            
+    
 2E CORPORATION
 --------------
 every corporation, lol
+...
+follow the leader!
+            e  e
 
-DICTATING A PATH TO PEACE
--------------------------
-so ... 
-i understand this is tragedy ... ?
-
-ONE OF MANY TRAGIC JOKES ABOUT THIS WRITING
--------------------------------------------
-it's put on a net bigger than me
-
-NINTENDO AS AN ADULT
---------------------
-i'm writing words!
-(it's really fun after math)
-
-END (IS) WAR
-------------
-or ... more accurately for me
-death
-
-MIDDLE (IS) ALREADY FINISHED
-----------------------------
-funny-or-die.com
-
-BEGINNING (IS) RAW
-------------------
-i dunno
+SPARKLING WATER
+---------------
+i blame ling (trademark 4 lotz of munny)
 
 CANNED FUN
 ----------
@@ -290,10 +209,6 @@ is
  is
   is
 ... etc
-
-SPARKLING WATER
----------------
-i blame ling (trademark 4 lotz of munny)
 
 I BLAME ... who?
 ----------------

@@ -216,7 +216,7 @@ def main:
     we're bad 
     '''
     do: 
-        stuff
+        stuff (010100010101, code boils down to 2 numbers)
 
 A MORE PROFITABLE 'COMPUTER PROGRAM'
 ------------------------------------
@@ -225,17 +225,27 @@ def main:
     heroic mission statement
     '''
     do:
-        something
+        stuff
         
 WHY ABOVE COMPUTER PROGRAM IS PROFITABLE
 ----------------------------------------
 ~ average program ~
-def:
+def main:
     '''
     heroic mission statement
     '''
     do:
         nothing
+
+NINTENDO LOOP
+-------------
+def main:
+    '''
+    having fun
+    '''
+    loop:
+         do:
+             stuff
 
 TTT
 ---
@@ -326,8 +336,8 @@ BEGINNING (IS) RAW
 ------------------
 i dunno
 
-NINTENDO FUN (already canned ... if you 'believed' in 'anything')
-------------
+CANNED FUN
+----------
 is
  is
   is

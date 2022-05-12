@@ -192,26 +192,6 @@ def main:
     '''
     do:
         stuff
-        
-WHY ABOVE COMPUTER PROGRAM IS PROFITABLE
-----------------------------------------
-~ average program ~
-def main:
-    '''
-    heroic mission statement
-    '''
-    do:
-        nothing
-
-NINTENDO LOOP
--------------
-def main:
-    '''
-    having fun
-    '''
-    loop:
-         do:
-             stuff
 
 TTT
 ---
@@ -228,6 +208,8 @@ top of triangle
 always gets 'highest priority'
 that's why
 we're in a triangle
+...
+rrr!
 
 SCIENTIFIC DEFENSE OF TRIANGLES
 -------------------------------

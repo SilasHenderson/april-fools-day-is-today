@@ -11,14 +11,6 @@ GOLF
 ----
 it's ... harder than actual fighting, right?
 
-MORALS
-------
-the golf champion
-speaks about morals
-...
-the fighting champion
-is a monster
-
 THAT WAS REALLY FUN-KNEE
 ------------------------
 there was never a plan
@@ -40,16 +32,6 @@ THE SONG OF THE SLAVE
 what do you
 mean?
 
-THE MOST OBVIOUS PROBLEM NO ONE SEEMS TO CARE ABOUT
----------------------------------------------------
-wall
-pyramid
-time
-
-AN EASIER PROBLEM
------------------
-popuarity
-
 SPIN
 ----
 cereal that pops and crackles?
@@ -58,25 +40,9 @@ CONFUSION
 ---------
 space balls!
 
-IF A 'TREE' FALLS IN FOR REST
------------------------------
+IF TREE FALLS FOR REST
+----------------------
 who remembers?
-
-ELECTRIC BULLSHIT
------------------
-what if there was a religion where the goal wasn't:
-- eternity and
-- super cool powers
-?
-
-NICK
-----
-he tried to teach me about puppets
-i thought he was stupid because 
-he didn't understand math
-and called himself satan
-...
-and might have hypnotized me into ... uh oh!
 
 BLACK HAWK SPEAKS
 -----------------
@@ -177,7 +143,7 @@ THE ENTIRE LIFE STORY OF EVERYBODY
 
 GERM-MANZ
 ---------
-i mean ... i'm fighting germans
+i mean ... i'm fighting germ(?)
 ...
 but spelling and history is insane now ... so ...
 
@@ -216,7 +182,7 @@ def main:
     we're bad 
     '''
     do: 
-        stuff (010100010101, code boils down to 2 numbers)
+        stuff
 
 A MORE PROFITABLE 'COMPUTER PROGRAM'
 ------------------------------------

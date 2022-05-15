@@ -1,0 +1,172 @@
+okay, here's some activities i want to do
+most of them are 'solo' so my main goal with 
+social stuff is to buy some space to do these things
+
+anyways, here they are
+
+Computer Books to study over next 30 years
+
+"C Programming Language"   Richie/Kernighan
+"Numerical Linear Algebra" Trefethen
+"Lion's Unix"              Lyon
+
+Computer topics to study over next 30 years
+
+- Circuits
+- Compilers
+- Graphics
+- Operating Systems
+
+Computer topics to study over next 3 years
+
+- javascript, css, html
+- rust
+- python
+- web assembly
+- web gpu langs
+
+Music books to study over next 3 years
+
+- Notebook for Ana Magdelina Bach
+- Mikrokosmos
+- Coltrane Patterns
+
+Music activities for next 3 years
+
+- Record 4-track songs
+- Write piano songs
+- New ear training
+
+Music 30 year goal
+
+- Get comfortable writing/reading music
+- Hear stuff better
+
+Art activities for next 3 years
+
+- outdoor drawing: plants, cross hatching
+
+Art activities for next 30 years
+
+- shade
+- color
+- paint
+
+~ Daily Routine ~
+
+- piano:    play along with 5 chord progressions
+            read from notebook for ana magdelina bach
+
+- art:      try to draw a plant for 5 minutes
+
+- code:     still trying to figure out this one
+            (probably edit old stuff: add more notes, organize better, try to follow better practice
+
+- health:   walk 5 miles (or) yoga (or) garden
+
+- adulting: claim my mom's money, pay taxes, hygiene, clothes ... money and looks
+
+~ Next Writing Activities ~
+
+i think i'm done with shorts
+...
+the next thing i guess would be edit the 40k line fever dream thing
+so it's less embarassing
+...
+but that has lots of 'non-capitalized prose'
+...
+and then there's some older journals
+...
+ugh
+
+~ Next Social Activities ~
+
+probably just youtube
+i spent the last year not coding, 
+so going through a bunch of old stuff
+and then remembering it and 
+making videos about 'how to make this stuff'
+... that'd be cool
+
+so, videos that'd be fun would be:
+
+how to (stuff i already wrote):
+
+- multibody sim    with javascript
+- cloth sim        with javascript
+- truss fea        with javascript + sushi.js
+- 3d scene         with javascript + three.js
+- code editor      with javascript + codemirror.js
+
+- triangle         with webgl2
+- mandelbrot       with webgl2
+- julia set        with webgl2
+- game of life     with webgl2
+- fluid sim        with webgl2
+- 3d scene         with webgl2 (do projection matrix stuff from scratch)
+
+Programs i want to write over next year
+
+2d Video Game (1 like zelda, 1 like mario (old nes))
+- this is doable now because javascript is
+  wayyy easier to write in than whatever languages they used back then
+
+Point and Click Fea
+- i already made a matlab program like this
+  i want to do a new one 'from scratch'
+
+Mini-language that compiles to Wasm
+- need to study a lot about
+- - wasm byte code
+- - wasm text format
+- - compilers
+- - text processing
+- - a lot of stuff
+
+WebGL2 Shortcut Library
+- texture fn
+- shader fn
+- matrx fn's
+- shapes?
+...
+basically like a mini three.js
+(obviously will not be 'as good', but a fun project)
+...
+and if i study enough
+i might eventually be able
+to contribute to those bigger projects
+
+PROBABLY UNREALISTIC GOALS IN SOFTWARE
+--------------------------------------
+contribute to:
+- vulkan
+- gpu architecture
+- cpu architecture
+- quantum shit
+...
+ugh
+...
+capitols
+
+THE DREAM
+---------
+study web stuff
+make friends along the way
+maybe one day
+contribute at khronos level
+but understand
+i probably won't
+and like those guys
+because they're awesome
+not be all pissed
+that i'll never be at vulkan level
+(already had practice with this with coltrane)
+
+WORD DEATH
+----------
+so ... i'm probably gonna go back to doing stuff
+everyone thinks is 'retarded and autistic'
+...
+things like 'learning'
+...
+ugh

@@ -356,4 +356,13 @@ mr. lee take leed again!
 
 doctors who
 kill the most bad
-get the most money
+get  the most money
+
+'the most' is a concept that exists on a linear scale
+
+for instance, 'the biggest point on a 2d grid' is debatable
+
+but
+
+'biggest point on a line' is:
+- the end that supposed to be biggest

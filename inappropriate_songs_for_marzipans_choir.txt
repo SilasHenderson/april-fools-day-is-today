@@ -1,113 +1,12 @@
 ~ shamoo's bottleneck ~
 
-THAT WAS REALLY FUN-KNEE
-------------------------
-there was never a plan
-to save
-the song of the slave
-
-WESTWORLD ROBOT BREAKING '101'
-------------------------------
-1) i'm a big strong man!
-2) i totally am tuffer than my grandma
-3) wait ... what?
-
-IF TREE FALLS FOR REST
-----------------------
-who remembers?
-
-BLACK HAWK SPEAKS
------------------
-it's a great book
-
-CHEROKOOKIE
------------
-idea for a kidz song
-
-MAN CHART
----------
-more than 2 chi points
-
-MANZ CHART
-----------
-     o  <--- lying, scheming (BIGGGG!)
-     |
-     /\ <--- pleasure (BIGGGG!)
-     
-2-5 A FUCKING 'GAIN
--------------------
-honey i shrunk the kids was made a long time ago
-
-BUTT '2' FEELS LIKE SUCH A BIG NUMBER!
---------------------------------------
-telll me about it
-
-LINEAR INDEPENDECE: A FUCKING GAIN
-----------------------------------
-between a rock and a hard place
-is just a saying
-apache spark (whaa?)
-electric koolaid acid test (chected) and 
-electric lady land are (whaa?) ...
-
-GOOD AND NOT GOOD
------------------
-it's so easy
-beeing green
-
-HOLLYWOOD
----------
-gotta spell it right otherwise i might get
-burned or
-fired
-
-BEE.LI.EVE
-----------
-bees lie, eve
-
-ATOMIC BOMB
------------
-it's abbreviated
-a --> b
-
-THE WORLDS IS MADE OF ADAMS
----------------------------
+THE WORLD IS MADE OF ADAMS
+--------------------------
 why, yes it is!
 
 WHAT?
 -----
 w hat
-
-FOURNADO
-------
-'hi'
-'i'm' 
-'fighting' 
-'nazis'
-
-SPELLING 'COMPLAIN'
--------------------
-i'm not good enuff at spelling
-
-COMPLAINING ABOUT SPELLING
---------------------------
-phew! 'back' in my lane!
-
-2 TAKE REASONABLE ADVICE OR 2 NOT 2 TAKE REASONABLE ADVICE
-----------------------------------------------------------
-so ... i should have just rested
-but i was all pumped and wanted to walk around
-...
-so
-...
-
-HOW MUCH COMPLAINING IS GOOD CHEMISTRY?
----------------------------------------
-"i'm gonna find the answer!"
-
-QUOTES
-------
-every 'one' "knows"
 
 '''DOC''' STRINGS
 -----------------
@@ -117,15 +16,6 @@ def main:
     '''
     do: 
         stuff
-
-TTT
----
-wayyy above my pay grade
-
-LIMITS OF BAD AND GOOD 4 KIDZ
------------------------------
-germs are bad
-spark is good
 
 TRIANGLE SCIENCE
 ----------------
@@ -147,101 +37,9 @@ HOW MANY DIMENSIONS DO I HAVE TO SAY THE UNIVERSE IS TO NOT SOUND STUPID?
 -------------------------------------------------------------------------
 probably more
 
-MORE STRING THEORY
-------------------
-history:
-- experience 3d over time
-- find a 4d container equation
-  ~ strings ~
-- jump to 11 dimensions
-    
-2E CORPORATION
---------------
-every corporation, lol
-...
-follow the leader!
-            e  e
-
-SPARKLING WATER
----------------
-i blame ling
-
-CANNED FUN
-----------
-is
- is
-  is
-... etc
-
-I BLAME ... who?
-----------------
-'the end of the rainbow'
-
-'2 THE' STRATEGY
-----------------
-maybe 4 was ... not advisable?
-2 3's instead?
-
 'OM' SEEMS WEIRD IN ENGLISH NOW
 -------------------------------
 full circle --> 2 half circles?
-
-GERM MEDITATION
----------------
-'o8'
-
-NAVIGATING THE SEA OF WORDS
----------------------------
-so, i'm pretty sure that there's
-more stuff than words
-but people's software is words
-so ...
-weird new thermomiter sign on my computer
-
-DADDING TO THE MAX! 
--------------------
-so, i assumed we already solved this problem
-and were slowing building a net
-to prevent www
-...
-i'm posting on www!
-
-SOOTHING WORDS FOR PEOPLE WHO THINK I AM IRRIDEEMABLY CURSED WITH AN EVIL VIRUS
--------------------------------------------------------------------------------
-i've got to make doctors feel safe
-because they're adults
-... right?
-
-HIPPO CANDY
------------
-there's endless vanity traps
-witch one am i?
-
-FUTURE GUESS
-------------
-1) rich people kill all the germs
-2) the world is made of 0101001
-3) everybody kills themselves
-4) start over
-
-ANOTHER FUTURE GUESS
---------------------
-1) numbers like 3 and 4 exist (and 5 too!)
-2) the world is made of ... more fun stuff
-3) everybody kills everybody
-4) start over
-
-WHAT DOES IT SAY ABOUT YOU IF YOU CAN'T CONTROL HOW YOU REACT TO WORDS?
------------------------------------------------------------------------
-you must be important
-
-WITCH DIRECTION?
-----------------
-more spin because no plan
-
-SLEEPY TIME!
-------------
-mr. lee take leed again
 
 DOC WIZKEY
 ----------
@@ -249,61 +47,11 @@ doctors who
 kill the most bad
 get  the most money
 
-CODFISH SANDWICH: PART 2
-------------------------
-'most' is concept that exists on a linear scale
-...
-'biggest point on a 2d grid' is debatable
-...
-but ...
-'biggest point on a line' is:
-- on the end that supposed to be biggest
-
-COLTRANE AND THE SPEED OF LI(T)E
---------------------------------
-i'll never be as good at music as coltrane
-because i didn't practice as much
-... is this sane?
-
 COMPLAINING ABOUT COMPUTERS TO A COMPUTER
 -----------------------------------------
 all these words boil down to 010100101 stuff
 ...
 gulp!
-
-I LIKE 0100101 STUFF!
----------------------
-a 1d plane moving through 1d of time
-and vibrating into a 3rd dim
-...
-like that medical symbol ... or something
-
-40
---
-40 seems like not a smart number
-what's so great about '40'?
-i don't get it
-
-VANITY
-------
-usually when i think a number is stupid
-i hurt myself somehow ... indirectly
-
-NUMBERS I THINK ARE COOL RIGHT NOW
-----------------------------------
-5, 13
-
-NUMBERS I THINK ARE TOTALLY OVER-RATED
---------------------------------------
-2, 5 (mixed feelings about 5), ...
-
-MANUFACTURING TRAGEDY
----------------------
-'i'm an expert at this'
-
-THOSE 2D VIDEO GAMES WITH A BUNCH OF LADDERS AND LEVELS
--------------------------------------------------------
-i'm still moving words around in this container
 
 IS THE CONTAINER ANYTHING MORE THAN WORDS?
 ------------------------------------------
@@ -311,20 +59,5 @@ these words are in a container already (internet)
 
 MAKIN' BAKIN'
 -------------
-bacon
-
-A SPACESHIP MADE OF MEAT: THE BIOGRAPHY OF SILAS
-------------------------------------------------
-okay ... 
-neck is better
-back is sore
-mood is okay
-...
-go try to practice i guess
-
-RIDDLE OF THE 'BEST SPELLING'
------------------------------
-it's a 1d scale
-embedded in
-more dimensions
-(this means the endpoints of the scale change beyond individual control, so trying to find 'best' is like trying to find the north-most point on a book that's in a moving ups car)
+= = = 
+bacon!

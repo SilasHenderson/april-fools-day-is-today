@@ -1,2 +1,2 @@
 # toasty
-cultured and studious poems with prestigious references
+academically rigorous poems with prestigious references

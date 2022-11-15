@@ -5,3 +5,10 @@ romans
 rowing
 robots
 royally
+
+Mr. Lee
+-------
+eye see
+you see
+not see
+lee sees
